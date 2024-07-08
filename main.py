@@ -22,13 +22,9 @@ def parseCmd(cmd: str):
     del data[4]
     return data
 
-# Main triangulation
+# Main triangulation process
 def parallax(pos0, pos1, angle1, angle2):
-    a1 = weirdToCardinal(angle1)
-    a2 = weirdToCardinal(angle2)
-    mid = midpoint(pos0, pos1)
-    dist = getDistance(pos0[0], pos0[1], pos1[0], pos1[1])
-    height = calculateTriHeight(dist, )
+    pass
 
 
 """
