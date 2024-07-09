@@ -2,9 +2,11 @@
 
 ### How to use
 
-Throw an ender eye, look directly at it, press F3 + C and paste it into the triangulator.
-Move to the side (the farther the better the accuracy, try 4 or more chunks) and do it again.
-Congrats! You have pinpointed your stronghold with great accuracy! 
+1. Run main.py
+
+2. Throw an ender eye, look directly at it, press F3 + C and paste it into the triangulator.
+3. Move to the side (the farther the better the accuracy, try 4 or more chunks) and do it again.
+4. Congrats! You have pinpointed your stronghold with great accuracy! Go get that dragon [REDACTED]
 
 
 Copyright (c) Aweeri, 2024
