@@ -2,11 +2,18 @@
 
 ### How to use
 
-
 1. Download and run `standalone.py` from the relases tab, (Make sure you got Python installed!)
 
 2. Throw an ender eye, look directly at it, press `F3 + C`, paste it into the Triangulator and press Enter.
 3. Move to the side (the farther the better the accuracy, try 4 or more chunks) and do it again.
 4. Congrats! You have pinpointed your stronghold with great accuracy! Go get that dragon [REDACTED]
+
+
+### Additional notes
+
+`triangulator.py` offers the above in a python module formfactor. Additional info on how to use it can be found in the `module_example.py` file.
+
+
+
 
 Copyright (c) Aweeri, 2024
