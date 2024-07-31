@@ -1,6 +1,11 @@
 ## This is a second iteration of the minecraft stronghold triangulator. I hate advanced trigonometry so I came up with this fuckery that works surprisingly well.
 
-### How to use
+### What is it?
+
+A little piece of code that lets you figure out where a minecraft stronghold is, all based off just two ender pearl throws.
+
+
+### How do I use it?
 
 1. Download and run `standalone.py` from the relases tab, (Make sure you got Python installed!)
 
