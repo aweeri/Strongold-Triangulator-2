@@ -1,4 +1,4 @@
-## This is a second iteration of the minecraft stronghold triangulator. I hate advanced trigonometry so I came up with this fuckery that works surprisingly well.
+## This is a second iteration of the minecraft stronghold triangulator. I hate trigonometry so I came up with this fuckery that works surprisingly well.
 
 ### What is it?
 
